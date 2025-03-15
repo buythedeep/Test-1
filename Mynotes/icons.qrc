@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/icons8-trash-can-48.png</file>
+        <file>icons/icons8-ножницы-48.png</file>
+        <file>icons/icons8-отдельно-для-каждого-нового-импортированного-файла-48.png</file>
+        <file>icons/icons8-открыть-папку-48.png</file>
+        <file>icons/icons8-регистр-заглавной-буквы-предложения-48.png</file>
+        <file>icons/icons8-редактировать-свойство-48.png</file>
+        <file>icons/icons8-скачать-файл-48.png</file>
+        <file>icons/icons8-содержание-48.png</file>
+        <file>icons/icons8-документы-48.png</file>
+        <file>icons/icons8-i-48.png</file>
+        <file>icons/icons8-в-48.png</file>
+        <file>icons/icons8-цвет-текста-48.png</file>
+        <file>icons/icons8-кирпич-48.png</file>
+    </qresource>
+</RCC>
